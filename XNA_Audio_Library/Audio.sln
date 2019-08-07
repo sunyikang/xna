@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StopOrPauseSoundWindows", "StopOrPauseSound\StopOrPauseSoundWindows.csproj", "{D9AEBA3A-379B-472A-B999-EC6026909593}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlaySongWindows", "PlaySong\PlaySongWindows.csproj", "{4D527563-8569-4246-B1DC-0B0DCB97F1FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WellnessGame", "..\XNA_Products_Library\WellnessGame\WellnessGame.csproj", "{3E820262-6321-49A4-A379-FBE276C28282}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9AEBA3A-379B-472A-B999-EC6026909593}.Debug|x86.ActiveCfg = Debug|x86
+		{D9AEBA3A-379B-472A-B999-EC6026909593}.Debug|x86.Build.0 = Debug|x86
+		{D9AEBA3A-379B-472A-B999-EC6026909593}.Release|x86.ActiveCfg = Release|x86
+		{D9AEBA3A-379B-472A-B999-EC6026909593}.Release|x86.Build.0 = Release|x86
+		{06992362-19FD-4884-AA07-6B7064F39E5F}.Debug|x86.ActiveCfg = Debug|x86
+		{06992362-19FD-4884-AA07-6B7064F39E5F}.Release|x86.ActiveCfg = Release|x86
+		{4D527563-8569-4246-B1DC-0B0DCB97F1FA}.Debug|x86.ActiveCfg = Debug|x86
+		{4D527563-8569-4246-B1DC-0B0DCB97F1FA}.Debug|x86.Build.0 = Debug|x86
+		{4D527563-8569-4246-B1DC-0B0DCB97F1FA}.Release|x86.ActiveCfg = Release|x86
+		{4D527563-8569-4246-B1DC-0B0DCB97F1FA}.Release|x86.Build.0 = Release|x86
+		{60647653-A3D2-441B-85A9-27E1998E59E3}.Debug|x86.ActiveCfg = Debug|x86
+		{60647653-A3D2-441B-85A9-27E1998E59E3}.Release|x86.ActiveCfg = Release|x86
+		{3E820262-6321-49A4-A379-FBE276C28282}.Debug|x86.ActiveCfg = Debug|x86
+		{3E820262-6321-49A4-A379-FBE276C28282}.Debug|x86.Build.0 = Debug|x86
+		{3E820262-6321-49A4-A379-FBE276C28282}.Release|x86.ActiveCfg = Release|x86
+		{3E820262-6321-49A4-A379-FBE276C28282}.Release|x86.Build.0 = Release|x86
+		{20F92DF5-187C-4583-ABF9-4A4860B07148}.Debug|x86.ActiveCfg = Debug|x86
+		{20F92DF5-187C-4583-ABF9-4A4860B07148}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
